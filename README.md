@@ -1,1 +1,1 @@
-# Map
+[![Build status](https://ci.appveyor.com/api/projects/status/2cevwouxy9ld0iu8?svg=true)](https://ci.appveyor.com/project/zvasileva/map)
